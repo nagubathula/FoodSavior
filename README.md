@@ -4,7 +4,7 @@
 Create a .env file to store your MongoDB database credentials
 
 ```
-MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
+MONGODB_URI = mongodb+srv://admin:admin@mern.hee5twc.mongodb.net/FoodRecipes?retryWrites=true&w=majority
 ```
 
 ## Installation
